@@ -1,0 +1,4 @@
+########## ToDos ##########
+* Review C++ basics
+* Learn git
+* Make SQL tutorial -> www.codecademy.com
